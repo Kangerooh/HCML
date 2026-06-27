@@ -12,3 +12,4 @@ pyproject.toml
 .python-version
 uv.lock
 data/
+.ipynb_checkpoints/
